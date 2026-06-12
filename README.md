@@ -18,7 +18,7 @@
 - AWS
 - Docker
 - Git & GitHub
-- CI/CD
+- CI/CD 
 - Terraform
 - Kubernetes
 - Bash Scripting
@@ -32,4 +32,4 @@
 
 ## Contact
 
-📧 your-email@example.com
+📧 besongmarlon014@gmail.com
