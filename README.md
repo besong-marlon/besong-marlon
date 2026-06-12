@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Besong Marlon👋
 
-<!--
-**besong-marlon/besong-marlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cloud & DevOps Engineer
 
-Here are some ideas to get you started:
+🎓 HND in Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech in Database Administration
+
+☁️ Currently specializing in Cloud & DevOps Engineering
+
+🔹 Learning AWS, Docker, Linux, Terraform, Kubernetes, and CI/CD
+
+🔹 Passionate about Cloud Infrastructure and Automation
+
+## Skills
+
+- Linux
+- AWS
+- Docker
+- Git & GitHub
+- CI/CD
+- Terraform
+- Kubernetes
+- Bash Scripting
+
+## Current Goals
+
+- Build AWS cloud projects
+- Master Infrastructure as Code
+- Deploy scalable applications
+- Contribute to open-source projects
+
+## Contact
+
+📧 your-email@example.com
